@@ -3,7 +3,7 @@
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bfco&label=Profile%20views&color=0e75b6&style=flat" alt="bfco" /> </p>
-
+<p align="center">
 - 🔭 I’m currently working on [HAGD](https://github.com/bfco/HAGD)
 
 - 🌱 I’m currently learning **Python, HTML, C++ and JS**
@@ -11,7 +11,7 @@
 - 👨‍💻 All of my projects are available at [soon....](soon....)
 
 - 📫 How to reach me **bfcoV3 fuck#7956**
-
+</p>
 
 <p align="center">
 </p>
