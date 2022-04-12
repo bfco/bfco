@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bfco&label=Profile%20views&color=0e75b6&style=flat" alt="bfco" /> </p>
 
-<p align="center"> - 🔭 I’m currently working on: https://github.com/bfco/HAGD
+<p align="center"> - 🔭 I’m currently working on: stuff
 
 <p align="center"> - 🌱 I’m currently learning: Python, HTML and JS
 
